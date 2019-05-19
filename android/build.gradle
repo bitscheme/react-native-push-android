@@ -45,6 +45,6 @@ repositories {
 dependencies {
     compile "com.facebook.react:react-native:${safeExtGet('reactNative', '+')}"
     compile fileTree( dir: "libs", includes: ['*.jar'] )
-    compile 'com.google.firebase:firebase-core:+'
-    compile 'com.google.firebase:firebase-messaging:+'    
+    compile 'com.google.firebase:firebase-core:16.0.8'
+    compile 'com.google.firebase:firebase-messaging:17.6.0'    
 }
