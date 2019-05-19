@@ -1,3 +1,9 @@
+#### 1.0.3 (2019-05-19)
+
+##### Bug Fixes
+
+*  set firebase version for deprecation error error: cannot find symbol import com.google.firebase.iid.FirebaseInstanceIdService; (3239df34)
+
 #### 1.0.2 (2018-11-18)
 
 ##### Chores
