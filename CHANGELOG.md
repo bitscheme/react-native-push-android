@@ -1,3 +1,9 @@
+#### 1.0.4 (2019-05-30)
+
+##### Bug Fixes
+
+*  sync helderfarias 5ac822b (53c5ec14)
+
 #### 1.0.3 (2019-05-19)
 
 ##### Bug Fixes
