@@ -30,6 +30,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     implementation "com.android.support:appcompat-v7:$supportLibVersion"
     implementation "com.facebook.react:react-native:+"
-    implementation 'com.google.firebase:firebase-core:+'
-    implementation 'com.google.firebase:firebase-messaging:+'
+    implementation 'com.google.firebase:firebase-core:16.0.8'
+    implementation 'com.google.firebase:firebase-messaging:17.3.4'
 }
